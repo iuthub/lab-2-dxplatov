@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+body{
+    background-color: #85dc;
+}
+
+h1{
+    color: #e27d60;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+   font-family: 'Indie Flower', cursive;
+   text-align: center;
+}
+.sub-header{
+    text-align: center;
+}
+h2{
+    color: #41b3a3;
+}
+p{
+    font-family:  'Pacifico', cursive;
+    font-size: 25px;
+    color: #c38d9e;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: white;
+    
+
+}
+
+li{
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+
+}
